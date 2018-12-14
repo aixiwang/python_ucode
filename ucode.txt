@@ -1,0 +1,9 @@
+put 1000
+put 1
+add
+dup
+dup
+print
+showd
+slp 1
+jmp -7
